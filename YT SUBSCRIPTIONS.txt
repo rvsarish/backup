@@ -1,0 +1,16 @@
+Sarish rv (312321205144  ,  21IT210)
+
+sem 5 gpa 7.9166667
+cgpa 8.081
+
+sem 4 gpa 8.333
+cgpa 8.11
+
+sem 3 gpa 8.280
+cgpa 8.06
+
+sem 2 gpa 8.043
+cgpa 7.94
+
+sem 1 gpa 7.833
+cgpa 7.833
